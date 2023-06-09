@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Xiyuan Tu, currently a MSCS student @ Northeastern University, graduating in December 2025. In 2023, I joined Northeastern University Mon(IoT)r Lab and built a real-time IoT device traffic statistics visualization dashboard. I have hands-on experience with skills such as:
+
+✨ Frontend: React, Typescript / Javascript<br/>
+✨ Backend: Java, Spring/Springboot, Express, Next.js, MySQL, MongoDB<br/>
+✨ Other: Python, Git, Docker, AWS, Linux<br/>
+
+Here are my github repositories that document my programming journey. Feel free to reach out to me for any inquiries!
